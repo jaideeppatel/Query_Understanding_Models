@@ -1,0 +1,284 @@
+-----
+ Kent Circuit Court, Donald A. Johnston, J.
+4-7-Donald A. Johnston-judge
+-----
+Court of Appeals, GRIFFIN, P.J., and DOCTOROFF and MARKMAN, JJ.
+9-10-DOCTOROFF-judge
+-----
+The Michigan Court of Appeals affirmed the convictions.
+1-5-Michigan Court of Appeals-judicialBranch
+-----
+CORRIGAN, J.
+0-1-CORRIGAN-judge
+-----
+We granted leave to determine 1) whether the prosecution presented sufficient evidence to support defendant's convictions of armed robbery, MCL 750.529; MSA 28.797, and first-degree felony murder, MCL 750.316(1)(b); MSA 28.548(1)(b), and 2) whether the trial court committed error requiring reversal when it instructed the jury regarding the elements of aiding and abetting felony murder.
+22-24-MCL 750.529-citation
+-----
+Defendant was tried before a Kent County jury for the robbery and murder of Thomas Eugene Gober in a downtown Grand Rapids parking garage.
+5-7-Kent County-geography
+-----
+U.S. Const. amends. V and VI require criminal convictions to rest upon a jury determination that the defendant is guilty of every element of the crime with which he is charged, beyond a reasonable doubt.an error in omitting an element of the felony murder instructions would be an error of constitutional magnitude.
+7-8-VI-citation
+-----
+See United States v Gaudin, 515 U.S. 506, 510; 115 S. Ct. 2310; 132 L. Ed. 2d 444 (1995) (the Fifth and Sixth Amendments of the United States Constitution "require criminal convictions to rest upon a jury determination that the defendant is guilty of every element of the crime with which he is charged, beyond a reasonable doubt").
+30-37-Sixth Amendments of the United States Constitution-citation
+28-29-Fifth-citation
+-----
+U.S. Const. amends. V and VI require criminal convictions to rest upon a jury determination that the defendant is guilty of every element of the crime with which he is charged, beyond a reasonable doubt.
+7-8-VI-citation
+-----
+We noted that a rule of automatic reversal would conflict  with MCL 769.26; MSA 28.1096, which provides that judgments or verdicts shall not be reversed absent a miscarriage of justice.
+11-13-MCL 769.26-citation
+-----
+We also observed that Michigan has long recognized the importance of preserving issues for appellate review.
+4-5-Michigan-geography
+-----
+[445 Mich. at 551, quoting United States v Mechanik, 475 U.S. 66, 72; 106 S. Ct. 938; 89 L. Ed. 2d 50 (1986).]
+1-5-445 Mich. at 551-citation
+-----
+The United States Supreme Court has acknowledged the importance of this policy and the right of the various states to impose preservation requirements.
+1-5-United States Supreme Court-judicialBranch
+-----
+445 Mich. at 546-547, 551, citing United States v Young,  470 U.S. 1, 15; 105 S. Ct. 1038; 84 L. Ed. 2d 1 (1985); Henry v Mississippi, 379 U.S. 443; 85 S. Ct. 564; 13 L. Ed. 2d 408 (1965); Yakus v United States, 321 U.S. 414, 444; 64 S. Ct. 660; 88 L. Ed. 834 (1944).
+0-4-445 Mich. at 546-547-citation
+-----
+Grant, supra, 445 Mich. at 551 (emphasis added).
+4-8-445 Mich. at 551-citation
+-----
+"Indeed, the United States Supreme Court has recognized a state's right to develop procedural rules that lead to issue forfeiture[7Reviewability, WaiverHN8Waiver is different from forfeiture.
+4-8-United States Supreme Court-judicialBranch
+-----
+[445 Mich. at 551, quoting United States v Mechanik, 475 U.S. 66, 72; 106 S. Ct. 938; 89 L. Ed. 2d 50 (1986).]
+1-5-445 Mich. at 551-citation
+-----
+We relied primarily on the United States Supreme Court's decision in United States v Olano, 507 U.S. 725; 113 S. Ct. 1770; 123 L. Ed. 2d 508 (1993).
+5-9-United States Supreme Court-judicialBranch
+-----
+In Olano, the Supreme Court explained the plain error rule of FR Crim P 52(b), which provides: "Plain errors or defects affecting substantial rights may be noticed although they were not brought to the attention of the court."
+4-6-Supreme Court-judicialBranch
+-----
+507 U.S. at 731-734.
+0-4-507 U.S. at 731-734-citation
+-----
+507 U.S. at 736-737.
+0-4-507 U.S. at 736-737-citation
+-----
+In Grant, we found Olano persuasive in distinguishing between Michigan's issue preservation requirement and harmless error rule.
+10-11-Michigan-geography
+-----
+Similarly, Michigan's preservation requirement would have no meaning if we applied the same harmless error rule to both preserved and unpreserved constitutional error.
+2-3-Michigan-geography
+-----
+Similarly, Michigan's preservation requirement would have no meaning if we applied the same harmless error rule to both preserved and unpreserved constitutional error.
+2-3-Michigan-geography
+-----
+445 Mich. at 550.
+0-4-445 Mich. at 550-citation
+-----
+445 Mich. at 551.
+0-4-445 Mich. at 551-citation
+-----
+520 U.S. at 463-464.
+0-4-520 U.S. at 463-464-citation
+-----
+The United States Supreme Court, in a virtually unanimous decision, 10Justice Scalia joined all but two sections of the opinion.
+1-5-United States Supreme Court-judicialBranch
+13-14-Scalia-judge
+-----
+520 U.S. at 465-470.
+0-4-520 U.S. at 465-470-citation
+-----
+520 U.S. at 465-468.
+0-4-520 U.S. at 465-468-citation
+-----
+520 U.S. at 468-469.
+0-4-520 U.S. at 468-469-citation
+-----
+Justice Scalia joined all but two sections of the opinion.
+1-2-Scalia-judge
+-----
+The Supreme Court determined in Johnson that, even if the third requirement had been met, it would not correct the error because it did not seriously affect the fairness, integrity, or public reputation of  judicial proceedings.
+1-3-Supreme Court-judicialBranch
+-----
+The policy underlying Michigan's preservation requirement governs all issues.
+3-4-Michigan-geography
+-----
+Also, Jury Instructions, Requests to ChargeAppeals, Reversible ErrorHN11See Mich. Comp. Laws § 768.29 (Mich. Stat.
+11-12-Mich.-geography
+18-19-Mich.-geography
+-----
+Although MCR 2.516(C) and MCL 768.29; MSA 28.1052, do not control in this case because the alleged error is a constitutional one, they do provide additional support for extending the Olano/Grant forfeiture rule to unpreserved, constitutional error, including claims of instructional error.
+7-9-MCL 768.29-citation
+-----
+This position is flawed because it ignores the plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C), which require parties to preserve claims of instructional error.
+11-13-MCL 768.29-citation
+-----
+Although the dissent suggests that the Fourteenth Amendment may require that this Court disregard the policy underlying the preservation requirement, slip op at 3, n 2, it fails to explain how our extension of the plain error rule to unpreserved claims of constitutional error violates due process.
+6-8-Fourteenth Amendment-citation
+-----
+The Supreme Court surely would not have applied the plain error rule in Johnson if its application violates due process.
+1-3-Supreme Court-judicialBranch
+-----
+Moreover, the dissent's approach would collapse Michigan's preservation requirement into the harmless error rule and would thus fail to further the important policy considerations underlying our preservation jurisprudence.
+8-9-Michigan-geography
+-----
+See Mich. Comp. Laws § 768.29 (Mich. Stat.
+1-2-Mich.-geography
+8-9-Mich.-geography
+-----
+This position is flawed because it ignores the plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C), which require parties to preserve claims of instructional error.
+11-13-MCL 768.29-citation
+-----
+Although the dissent suggests that the Fourteenth Amendment may require that this Court disregard the policy underlying the preservation requirement, slip op at 3, n 2, it fails to explain how our extension of the plain error rule to unpreserved claims of constitutional error violates due process.
+6-8-Fourteenth Amendment-citation
+-----
+The Supreme Court surely would not have applied the plain error rule in Johnson if its application violates due process.
+1-3-Supreme Court-judicialBranch
+-----
+Moreover, the dissent's approach would collapse Michigan's preservation requirement into the harmless error rule and would thus fail to further the important policy considerations underlying our preservation jurisprudence.
+8-9-Michigan-geography
+-----
+Accordingly, the  United States Supreme Court's reasoning in Johnson applies here:
+3-7-United States Supreme Court-judicialBranch
+-----
+reverse only when the People v Lukity, 460 defendant is actually Mich. 484, 596 N.W.2d innocent or the error 607 (1999).seriously affected the fairness, integrity, or public reputation of judicial proceedings.
+12-13-Mich.-geography
+-----
+People $ Hv Anderson (After Remand), 446 Mich. 392;  521 N.W.2d 538 (1994).
+10-11-Mich.-geography
+-----
+MCL 768.29; MSA 28.1052; People v Vaughn, 447 Mich. 217, 228; 524 N.W.2d 217 (1994)(opinion of Brickley, J.
+0-2-MCL 768.29-citation
+25-26-Brickley-judge
+-----
+Vaughn, 447 Mich. at 228-229 (opinion of Brickley, J.)
+9-10-Brickley-judge
+-----
+21  The majority contends my position is flawed because it ignores the plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C), which require parties to preserve claims of instructional error.
+15-17-MCL 768.29-citation
+-----
+Although the dissent suggests that the Fourteenth Amendment may require that this Court disregard the policy underlying the preservation requirement, .
+6-8-Fourteenth Amendment-citation
+-----
+The Supreme Court surely would not have applied the plain error rule in Johnson if its application violates due process.
+1-3-Supreme Court-judicialBranch
+-----
+Moreover, the dissent's approach would collapse Michigan's preservation requirement into the harmless error rule and would thus fail to further the important policy considerations underlying our preservation jurisprudence.
+8-9-Michigan-geography
+-----
+]Whereas it asserts that I ignore the "plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C)," the majority itself concedes that MCR 2.516(C) and MCL 768.29; MSA 2.1052 "do not control in this case because the alleged error is a constitutional one .
+12-14-MCL 768.29-citation
+36-38-MCL 768.29-citation
+-----
+Because the instructional error in this case relates to an essential element, it "has long been recognized under Michigan law as unique and commanding an exception to the general rule requiring preservation."
+20-21-Michigan-geography
+-----
+People v Vaughn, 447 Mich. 217, 228; 524 N.W.2d 217 (1994)4 (Levin, J., dissenting).
+18-19-Levin-judge
+-----
+Contrary to the majority, I believe that we are not free to follow MCL 768.29; MSA 28.1052 and MCR 2.516(C) if they provide less protection of a defendant's due process rights than required under the Fourteenth Amendment.
+14-16-MCL 768.29-citation
+41-43-Fourteenth Amendment-citation
+-----
+  The majority contends my position is flawed because it ignores the plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C), which require parties to preserve claims of instructional error.
+14-16-MCL 768.29-citation
+-----
+Although the dissent suggests that the Fourteenth Amendment may require that this Court disregard the policy underlying the preservation requirement, .
+6-8-Fourteenth Amendment-citation
+-----
+The Supreme Court surely would not have applied the plain error rule in Johnson if its application violates due process.
+1-3-Supreme Court-judicialBranch
+-----
+Moreover, the dissent's approach would collapse Michigan's preservation requirement into the harmless error rule and would thus fail to further the important policy considerations underlying our preservation jurisprudence.
+8-9-Michigan-geography
+-----
+Whereas it asserts that I ignore the "plain language of MCL 768.29; MSA 28.1052 and MCR 2.516(C)," the majority itself concedes that MCR 2.516(C) and MCL 768.29; MSA 2.1052 "do not control in this case because the alleged error is a constitutional one .
+11-13-MCL 768.29-citation
+35-37-MCL 768.29-citation
+-----
+Because the instructional error in this case relates to an essential element, it "has long been recognized under Michigan law as unique and commanding an exception to the general rule requiring preservation."
+20-21-Michigan-geography
+-----
+447 Mich. at 259-260 (Levin, J., dissenting).
+0-4-447 Mich. at 259-260-citation
+5-6-Levin-judge
+-----
+Contrary to the majority, I believe that we are not free to follow MCL 768.29; MSA 28.1052 and MCR 2.516(C) if they provide less protection of a defendant's due process rights than required under the Fourteenth Amendment.
+14-16-MCL 768.29-citation
+41-43-Fourteenth Amendment-citation
+-----
+447 Mich. at 261, citing MCR 2.516(C)0.
+0-4-447 Mich. at 261-citation
+-----
+445 Mich. at 543.
+0-4-445 Mich. at 543-citation
+-----
+445 Mich. at 543.
+0-4-445 Mich. at 543-citation
+-----
+445 Mich. at 547.
+0-4-445 Mich. at 547-citation
+-----
+However, the majority fails to acknowledge that "Michigan does not have a counterpart to FR Crim P 52(b) .
+9-10-Michigan-geography
+-----
+See Grant, 445 Mich. at 555 (Levin, J., dissenting).
+8-9-Levin-judge
+-----
+As noted by Justice Levin in his Grant dissent, the "adoption of the views expressed by the majority in Olano concerning the meaning of the federal plain error rule ignores the significant difference between the federal judicial power and the judicial power confided to this Court."
+4-5-Levin-judge
+-----
+445 Mich. at 556.
+0-4-445 Mich. at 556-citation
+-----
+While federal rules provide federal courts with limited power to correct errors that were forfeited, the Michigan Constitution provides this Court with plenary power to correct such errors.
+17-18-Michigan-geography
+-----
+However, the majority fails to acknowledge that "Michigan does not have a counterpart to FR Crim P 52(b) .
+9-10-Michigan-geography
+-----
+See Grant, 445 Mich. at 555 (Levin, J., dissenting).
+8-9-Levin-judge
+-----
+As noted by Justice Levin in his Grant dissent, the "adoption of the views expressed by the majority in Olano concerning the meaning of the federal plain error rule ignores the significant difference between the federal judicial power and the judicial power confided to this Court."
+4-5-Levin-judge
+-----
+445 Mich. at 556.
+0-4-445 Mich. at 556-citation
+-----
+While federal rules provide federal courts with limited power to correct errors that were forfeited, the Michigan Constitution provides this Court with plenary power to correct such errors.
+17-18-Michigan-geography
+-----
+445 Mich. at 556-557.
+0-4-445 Mich. at 556-557-citation
+-----
+Vaughn, supra at 228, 230, 238 (opinion of Brickley, J.
+12-13-Brickley-judge
+-----
+(1) the killing of a human being, (2) with the intent to kill, to do great bodily harm, or to create a very high risk of death or great bodily harm with knowledge that death or great bodily harm was the probable result, (3) while committing, attempting to commit, or assisting in the commission of any of the felonies enumerated in MCL 750.316;  MSA 28.548.
+73-75-MCL 750.316-citation
+-----
+[24  The majority accurately notes that "robbery" is one of the enumerated offenses under MCL 750.316; MSA 28.548. ]
+17-19-MCL 750.316-citation
+-----
+[People v Nix, 453 Mich. 619, 640; 556 N.W.2d 866 (1996)(Boyle, J., dissenting).]
+18-19-Boyle-judge
+-----
+  The majority accurately notes that "robbery" is one of the enumerated offenses under MCL 750.316; MSA 28.548.
+15-17-MCL 750.316-citation
+-----
+[453 Mich. at 640.]
+1-5-453 Mich. at 640-citation
+-----
+[453 Mich. at 640.]
+1-5-453 Mich. at 640-citation
+-----
+Slip op at 25, n 18, citing Neder, supra. However, in Neder, the United States Supreme Court explained that a reviewing court making a harmless-error inquiry does not "'become in effect a second jury to determine whether the defendant is guilty.'"
+19-23-United States Supreme Court-judicialBranch
+-----
+Slip op at 25, n 18, citing Neder, supra. However, in Neder, the United States Supreme Court explained that a reviewing court making a harmless-error inquiry does not "'become in effect a second jury to determine whether the defendant is guilty.'"
+19-23-United States Supreme Court-judicialBranch
+-----
+CAVANAGH, J., concurred with KELLY, J.
+0-1-CAVANAGH-judge
+-----
