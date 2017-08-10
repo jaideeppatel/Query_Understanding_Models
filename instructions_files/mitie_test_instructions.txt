@@ -1,0 +1,1 @@
+mitie,txt,,ner_test_files,T,ner_models/2000_cases_model.dat
